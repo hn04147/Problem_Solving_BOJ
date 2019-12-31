@@ -11,5 +11,8 @@ def solution(num):
     list_[num] = solution(num-1) + solution(num-2) + solution(num-3)
     return list_[num]
 
-
+num = int(input())
+for i in range (0, num):
+    index = int(input())
+    print(solution(index))
 
