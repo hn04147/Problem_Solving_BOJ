@@ -1,5 +1,6 @@
 #include <iostream>
 #include <stack>
+#include <string>
 using namespace std;
 
 int main(){
@@ -7,7 +8,9 @@ int main(){
         string input;
         getline(cin,input);
         stack<char> s;
-        if (input=="."){
+        string result = "yes";
+        if (input.length()>100) break;
+        if (input.length() == 1 && input[0]=='.'){
             break;
         }
         else{
@@ -19,12 +22,25 @@ int main(){
                     s.push('[');
                 }
                 else if (input[i] == ')'){
-
+                    if (!s.empty() && s.top() == '('){
+                        s.pop();
+                    }
+                    else{
+                        result = "no";
+                        break;
+                    }
                 }
                 else if (input[i] == ']'){
-                    
+                    if (!s.empty() && s.top() == '['){
+                        s.pop();
+                    }
+                    else{
+                        result = "no";
+                        break;
+                    }
                 }
             }
         }
+        cout<<result<<endl;
     }
 }

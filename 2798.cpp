@@ -22,7 +22,7 @@ int main(){
                     }
                 }
             }
-        }
+        }5
         delete[] array;
         printf("%d", answer_);
     }
