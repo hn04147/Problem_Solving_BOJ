@@ -9,7 +9,8 @@ Input:
 5 6
 4 7
 
-Output: 4
+Output: 
+4
 '''
 
 n = int(input())
