@@ -5,7 +5,7 @@ arr[1], arr[2], arr[3] = 0, 1, 1
 nums[1], nums[2], nums[3] = 0, 1, 1
 
 if n == 1:
-  print(1)
+  print(0)
   print(1)
 elif 1 < n <= 3:
   print(arr[n])
