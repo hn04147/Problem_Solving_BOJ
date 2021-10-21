@@ -11,6 +11,6 @@ for i in range(1, n + 1):
       arr[i][j] = arr[i - 1][j]
     else:
       arr[i][j] = max(arr[i - 1][j], bag[i][1] + arr[i - 1][j - bag[i][0]])
-    # arr[i][j] = arr[i - 1][j] if bag[i][0] > j else max(arr[i - 1][j], bag[i][1] + arr[i - 1][j - bag[i][0]])
-
+    # arr[i][j] = arr[i - 1][j] if bag[i][0] > j else max(arr[i - 1][j], bag[i][1] + arr[i - 1][j - bag[i][0]]021 
+    '[p;oiuytrewq ?.,m '
 print(arr[-1][-1])

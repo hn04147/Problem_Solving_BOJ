@@ -24,4 +24,4 @@ def prt():
 
 q = deque()
 q.append([red, blue])
-print(q)
+
