@@ -41,13 +41,6 @@ while True:
   else:
     cnt += 1
 
-  # for j in range(6):
-  #   col_arr = []
-  #   for i in range(12):
-  #     col_arr.append(arr[i][j])
-  #   if 'R' in col_arr or 'G' in col_arr or 'B' in col_arr or 'P' in col_arr or 'Y' in col_arr:
-  #     for _ in range(11):
-
   arr_ = [['.'] * 6 for _ in range(12)]
   for j in range(6):
     idx = 11
@@ -58,7 +51,5 @@ while True:
   for i in range(12):
     for j in range(6):
       arr[i][j] = arr_[i][j]
-  
-  pprint(arr)
 
 print(cnt)
