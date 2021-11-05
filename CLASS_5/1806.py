@@ -4,7 +4,7 @@ input = sys.stdin.readline
 n, s = map(int, input().rstrip().split())
 arr = list(map(int, input().rstrip().split()))
 
-min_len = 10001
+min_len = 100001
 l, r = 0, 0
 tmp_sum = arr[0]
 
@@ -19,4 +19,4 @@ while True:
       break
     tmp_sum += arr[r]
 
-print(0 if min_len == 10001 else min_len)
+print(0 if min_len == 100001 else min_len)
