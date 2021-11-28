@@ -3,7 +3,6 @@ from collections import deque
 input = sys.stdin.readline
 
 T = int(input())
-INF = sys.maxsize
 
 def topological_sort(graph, degree):
   s = deque()
