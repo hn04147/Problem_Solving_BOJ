@@ -30,28 +30,15 @@ while True:
   next_head = [head[0] + dir[current_dir][0], head[1] + dir[current_dir][1]]
 
   if 0 <= next_head[0] < n and 0 <= next_head[1] < n:
-    if next_head in apples:
-      if next_head in snake:
-        break
-      else:
-        snake.append(next_head)
-      apples.remove(next_head)
+    if next_head in snake:
+      break
     else:
-      snake.popleft()
-      if next_head in snake:
-        break
+      if [next_head[0] + 1, next_head[1] + 1] in apples:
+        snake.append(next_head)
+        apples.remove([next_head[0] + 1, next_head[1] + 1])
       else:
         snake.append(next_head)
-    
-    # if next_head in snake:
-    #   break
-    # else:
-    #   if [next_head[0] + 1, next_head[1] + 1] in apples:
-    #     snake.append(next_head)
-    #     apples.remove([next_head[0] + 1, next_head[1] + 1])
-    #   else:
-    #     snake.append(next_head)
-    #     snake.popleft()
+        snake.popleft()
   else:
     break
 
