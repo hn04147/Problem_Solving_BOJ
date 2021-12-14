@@ -16,7 +16,6 @@ def bfs(num):
       if not visited[i][j] and (arr[i][j] - num) > 0:
         visited[i][j] = True
         q = deque([[i, j]])
-        cnt_idx = 1
         while q:
           for _ in range(len(q)):
             x, y = q.popleft()
@@ -27,7 +26,6 @@ def bfs(num):
                 if not visited[nx][ny] and (arr[nx][ny] - num) > 0:
                   visited[nx][ny] = True
                   q.append([nx, ny])
-                  cnt_idx += 1
         cnt += 1
 
   return cnt
