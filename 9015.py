@@ -19,6 +19,7 @@ for _ in range(t):
     for j in range(n):
       if i == j:
         continue
+      
       x1, y1 = arr[i]
       x2, y2 = arr[j]
       x_diff = x1 - x2

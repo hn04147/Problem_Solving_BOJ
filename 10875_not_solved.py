@@ -1,3 +1,5 @@
+# 시간 초과 코드
+
 l = int(input())
 n = int(input())
 steps = {}
