@@ -42,7 +42,5 @@ for _ in range(m):
         clouds.append([i, j])
         graph[i][j] -= 2
 
-  print(clouds)
-
 ans = sum([sum(i) for i in graph])
 print(ans)
