@@ -24,7 +24,7 @@ for step in steps:
     direction = 0
     queue = deque([])
 
-########################################################
+
 # 얼음 파편 공격
     for i in range(1, s+1):
         graph[x+ddx[d-1]*i][y+ddy[d-1]*i] = 0
@@ -41,10 +41,8 @@ for step in steps:
                     queue.append(graph[x][y])
             direction = (direction + 1) % 4
         step += 1
-########################################################
 
 
-########################################################
 # 구슬 폭발 멈출 때 까지
     while True:
         stack = deque([])
@@ -79,10 +77,8 @@ for step in steps:
 
         if exploded == 0:
             break
-########################################################
 
 
-########################################################
 # 구슬 변화하는 단계
     stack = deque([])
     while queue:
@@ -100,10 +96,8 @@ for step in steps:
                 queue.popleft()
             stack.append(count+1)
             stack.append(q)
-########################################################
 
 
-########################################################
 # 그래프 갱신
     step = 1
     direction = 0
@@ -125,6 +119,5 @@ for step in steps:
                 graph[x][y] = stack.popleft()
             direction = (direction + 1) % 4
         step += 1
-########################################################
 
 print(ans)
