@@ -20,15 +20,20 @@ dy = [-1, -1, 0, 1, 1, 1, 0, -1]
 dsx = [-1, 0, 1, 0]
 dsy = [0, -1, 0, 1]
 
-for _ in range(S):
+for s in range(S):
     # 물고기 복제
     graph_copied = [[deque([]) for _ in range(4)] for _ in range(4)]
     for i in range(4):
         for j in range(4):
             for k in range(len(graph[i][j])):
                 graph_copied[i][j].append(graph[i][j][k])
-    # print('처음')
+    # print('')
+    # print('')
+    # print('Round:', s+1, '처음')
     # pprint(graph)
+    # print('상어 위치', shark)
+    # print('냄새')
+    # pprint(smells)
 
 
     # 물고기 이동
@@ -38,6 +43,7 @@ for _ in range(S):
             if graph[x][y]:
                 while graph[x][y]:
                     ori_direction = graph[x][y].popleft()
+                    ori_direction_idx = ori_direction
                     idx = 0
                     while idx < 8:
                         nx = x + dx[ori_direction]
@@ -48,6 +54,8 @@ for _ in range(S):
                         else:
                             ori_direction = (ori_direction - 1) % 8
                             idx += 1
+                    if idx >= 8:
+                        fish_moved[x][y].append(ori_direction_idx)
     for x in range(4):
         for y in range(4):
             if fish_moved[x][y]:
@@ -93,6 +101,9 @@ for _ in range(S):
         shark = max_sequence[2]
     # print('물고기 제거, 냄새 추가 후')
     # pprint(graph)
+    # print('상어 위치', shark)
+    # print('냄새')
+    # pprint(smells)
 
 
     # 두 번 전 생긴 물고기 냄새 제거
