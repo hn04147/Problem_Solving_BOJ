@@ -3,7 +3,7 @@
 |레벨|ID|제목|해결|
 |:-:|:-:|:-:|:-:|
 |<img src='https://static.solved.ac/tier_small/8.svg' height='20px' align='center' />|<a href='./1003.py'>1003</a>|<a href='https://www.acmicpc.net/problem/1003'>피보나치 함수</a>|✅|
-|<img src='https://static.solved.ac/tier_small/9.svg' height='20px' align='center' />|<a href='./1003.py'>1003</a>|<a href='https://www.acmicpc.net/problem/1003'>유기농 배추</a>|✅|
+|<img src='https://static.solved.ac/tier_small/9.svg' height='20px' align='center' />|<a href='./1012.py'>1012</a>|<a href='https://www.acmicpc.net/problem/1012'>유기농 배추</a>|✅|
 |<img src='https://static.solved.ac/tier_small/10.svg' height='20px' align='center' />|<a href='./1074.py'>1074</a>|<a href='https://www.acmicpc.net/problem/1074'>Z</a>|✅|
 |<img src='https://static.solved.ac/tier_small/11.svg' height='20px' align='center' />|<a href='./1107.py'>1107</a>|<a href='https://www.acmicpc.net/problem/1107'>리모컨</a>|✅|
 |<img src='https://static.solved.ac/tier_small/9.svg' height='20px' align='center' />|<a href='./1260.py'>1260</a>|<a href='https://www.acmicpc.net/problem/1260'>DFS와 BFS</a>|✅|
@@ -38,7 +38,7 @@
 |<img src='https://static.solved.ac/tier_small/9.svg' height='20px' align='center' />|<a href='./11279.py'>11279</a>|<a href='https://www.acmicpc.net/problem/11279'>최대 힙</a>|✅|
 |<img src='https://static.solved.ac/tier_small/10.svg' height='20px' align='center' />|<a href='./11286.py'>11286</a>|<a href='https://www.acmicpc.net/problem/11286'>절대값 힙</a>|✅|
 |<img src='https://static.solved.ac/tier_small/8.svg' height='20px' align='center' />|<a href='./11399.py'>11399</a>|<a href='https://www.acmicpc.net/problem/11399'>ATM</a>|✅|
-|<img src='https://static.solved.ac/tier_small/10.svg' height='20px' align='center' />|<a href='./11403.py'>11403</a>|<a href='https://www.acmicpc.net/problem/11403'>경로 찾기</a>|✅|
+|<img src='https://static.solved.ac/tier_small/10.svg' height='20px' align='center' />|<a href='./11403_Floyd-Warshall.py'>11403</a>|<a href='https://www.acmicpc.net/problem/11403'>경로 찾기</a>|✅|
 |<img src='https://static.solved.ac/tier_small/8.svg' height='20px' align='center' />|<a href='./11659.py'>11659</a>|<a href='https://www.acmicpc.net/problem/11659'>구간 합 구하기 4</a>|✅|
 |<img src='https://static.solved.ac/tier_small/6.svg' height='20px' align='center' />|<a href='./11723.py'>11723</a>|<a href='https://www.acmicpc.net/problem/11723'>집합</a>|✅|
 |<img src='https://static.solved.ac/tier_small/9.svg' height='20px' align='center' />|<a href='./11724.py'>11724</a>|<a href='https://www.acmicpc.net/problem/11724'>연결 요소의 개수</a>|✅|
