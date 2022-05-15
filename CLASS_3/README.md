@@ -1,4 +1,4 @@
-<img src='https://static.solved.ac/class/c3.svg' height='100px' align='center' width='390px' />
+<img src='https://static.solved.ac/class/c3s.svg' height='100px' />
 
 |레벨|ID|제목|해결|
 |:-:|:-:|:-:|:-:|
