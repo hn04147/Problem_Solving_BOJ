@@ -6,7 +6,7 @@
 
 <!-- CLASS 1 STARTS -->
 <details>
-<summary>▶︎ CLASS 1</summary>
+<summary>CLASS 1</summary>
 <div markdown='1'>
 
 <img src='https://static.solved.ac/class/c1g.svg' height='100px' />
@@ -58,7 +58,7 @@
 
 <!-- CLASS 2 STARTS -->
 <details>
-<summary>▶︎ CLASS 2</summary>
+<summary>CLASS 2</summary>
 <div markdown='1'>
 
 <img src='https://static.solved.ac/class/c2g.svg' height='100px' />
@@ -114,7 +114,7 @@
 
 <!-- CLASS 3 STARTS -->
 <details>
-<summary>▶︎ CLASS 3</summary>
+<summary>CLASS 3</summary>
 <div markdown="1">
 
 <img src='https://static.solved.ac/class/c3s.svg' height='100px' />
@@ -178,7 +178,7 @@
 
 <!-- CLASS 4 STARTS -->
 <details>
-<summary>▶︎ CLASS 4</summary>
+<summary>CLASS 4</summary>
 <div markdown='1'>
 
 <img src='https://static.solved.ac/class/c4.svg' height='100px' />
@@ -243,7 +243,7 @@
 
 <!-- CLASS 5 STARTS -->
 <details>
-<summary>▶︎ CLASS 5</summary>
+<summary>CLASS 5</summary>
 <div markdown='1'>
 
 <img src='https://static.solved.ac/class/c5.svg' height='100px' />
@@ -307,7 +307,7 @@
 
 <!-- CLASS 6 STARTS -->
 <details>
-<summary>▶︎ CLASS 6</summary>
+<summary>CLASS 6</summary>
 <div markdown='1'>
 
 <img src='https://static.solved.ac/class/c6.svg' height='100px' />
