@@ -13,41 +13,41 @@
 
 |레벨|ID|제목|해결|
 |:-:|:-:|:-:|:-:|
-|<img src='https://static.solved.ac/tier_small/1.svg' height='20px' align='center' />|<a href='./CLASS_1/1000.py'>1000</a>|<a href='https://www.acmicpc.net/problem/1000'>A+B</a>|✅|
-|<img src='https://static.solved.ac/tier_small/1.svg' height='20px' align='center' />|<a href='./CLASS_1/1001.py'>1001</a>|<a href='https://www.acmicpc.net/problem/1001'>A-B</a>|✅|
-|<img src='https://static.solved.ac/tier_small/2.svg' height='20px' align='center' />|<a href='./CLASS_1/1008.py'>1008</a>|<a href='https://www.acmicpc.net/problem/1008'>A/B</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/1000.py'>1000</a>|<a href='https://www.acmicpc.net/problem/1000'>A+B</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/1001.py'>1001</a>|<a href='https://www.acmicpc.net/problem/1001'>A-B</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/1008.py'>1008</a>|<a href='https://www.acmicpc.net/problem/1008'>A/B</a>|✅|
 |<img src='https://static.solved.ac/tier_small/4.svg' height='20px' align='center' />|<a href='./CLASS_1/1152.py'>1152</a>|<a href='https://www.acmicpc.net/problem/1152'>단어의 개수</a>|✅|
 |<img src='https://static.solved.ac/tier_small/5.svg' height='20px' align='center' />|<a href='./CLASS_1/1157.py'>1157</a>|<a href='https://www.acmicpc.net/problem/1157'>단어 공부</a>|✅|
-|<img src='https://static.solved.ac/tier_small/2.svg' height='20px' align='center' />|<a href='./CLASS_1/1330.py'>1330</a>|<a href='https://www.acmicpc.net/problem/1330'>두 수 비교하기</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/1330.py'>1330</a>|<a href='https://www.acmicpc.net/problem/1330'>두 수 비교하기</a>|✅|
 |<img src='https://static.solved.ac/tier_small/5.svg' height='20px' align='center' />|<a href='./CLASS_1/1546.py'>1546</a>|<a href='https://www.acmicpc.net/problem/1546'>평균</a>|✅|
-|<img src='https://static.solved.ac/tier_small/3.svg' height='20px' align='center' />|<a href='./CLASS_1/2438.py'>2438</a>|<a href='https://www.acmicpc.net/problem/2438'>별 찍기 - 1</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/2438.py'>2438</a>|<a href='https://www.acmicpc.net/problem/2438'>별 찍기 - 1</a>|✅|
 |<img src='https://static.solved.ac/tier_small/3.svg' height='20px' align='center' />|<a href='./CLASS_1/2439.py'>2439</a>|<a href='https://www.acmicpc.net/problem/2439'>별 찍기 - 2</a>|✅|
 |<img src='https://static.solved.ac/tier_small/1.svg' height='20px' align='center' />|<a href='./CLASS_1/2475.py'>2475</a>|<a href='https://www.acmicpc.net/problem/2475'>검증수</a>|✅|
-|<img src='https://static.solved.ac/tier_small/1.svg' height='20px' align='center' />|<a href='./CLASS_1/2557.py'>2557</a>|<a href='https://www.acmicpc.net/problem/2557'>Hello World</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/2557.py'>2557</a>|<a href='https://www.acmicpc.net/problem/2557'>Hello World</a>|✅|
 |<img src='https://static.solved.ac/tier_small/4.svg' height='20px' align='center' />|<a href='./CLASS_1/2562.py'>2562</a>|<a href='https://www.acmicpc.net/problem/2562'>최댓값</a>|✅|
 |<img src='https://static.solved.ac/tier_small/4.svg' height='20px' align='center' />|<a href='./CLASS_1/2577.py'>2577</a>|<a href='https://www.acmicpc.net/problem/2577'>숫자의 개수</a>|✅|
 |<img src='https://static.solved.ac/tier_small/4.svg' height='20px' align='center' />|<a href='./CLASS_1/2675.py'>2675</a>|<a href='https://www.acmicpc.net/problem/2675'>문자열 반복</a>|✅|
-|<img src='https://static.solved.ac/tier_small/3.svg' height='20px' align='center' />|<a href='./CLASS_1/2739.py'>2739</a>|<a href='https://www.acmicpc.net/problem/2739'>구구단</a>|✅|
-|<img src='https://static.solved.ac/tier_small/3.svg' height='20px' align='center' />|<a href='./CLASS_1/2741.py'>2741</a>|<a href='https://www.acmicpc.net/problem/2741'>N 찍기</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/2739.py'>2739</a>|<a href='https://www.acmicpc.net/problem/2739'>구구단</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/2741.py'>2741</a>|<a href='https://www.acmicpc.net/problem/2741'>N 찍기</a>|✅|
 |<img src='https://static.solved.ac/tier_small/3.svg' height='20px' align='center' />|<a href='./CLASS_1/2742.py'>2742</a>|<a href='https://www.acmicpc.net/problem/2742'>기찍 N</a>|✅|
-|<img src='https://static.solved.ac/tier_small/2.svg' height='20px' align='center' />|<a href='./CLASS_1/2753.py'>2753</a>|<a href='https://www.acmicpc.net/problem/2753'>윤년</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/2753.py'>2753</a>|<a href='https://www.acmicpc.net/problem/2753'>윤년</a>|✅|
 |<img src='https://static.solved.ac/tier_small/3.svg' height='20px' align='center' />|<a href='./CLASS_1/2884.py'>2884</a>|<a href='https://www.acmicpc.net/problem/2884'>알람 시계</a>|✅|
 |<img src='https://static.solved.ac/tier_small/4.svg' height='20px' align='center' />|<a href='./CLASS_1/2908.py'>2908</a>|<a href='https://www.acmicpc.net/problem/2908'>상수</a>|✅|
 |<img src='https://static.solved.ac/tier_small/4.svg' height='20px' align='center' />|<a href='./CLASS_1/2920.py'>2920</a>|<a href='https://www.acmicpc.net/problem/2920'>음계</a>|✅|
 |<img src='https://static.solved.ac/tier_small/4.svg' height='20px' align='center' />|<a href='./CLASS_1/3052.py'>3052</a>|<a href='https://www.acmicpc.net/problem/3052'>나머지</a>|✅|
 |<img src='https://static.solved.ac/tier_small/4.svg' height='20px' align='center' />|<a href='./CLASS_1/8952.py'>8952</a>|<a href='https://www.acmicpc.net/problem/8952'>OX퀴즈</a>|✅|
-|<img src='https://static.solved.ac/tier_small/2.svg' height='20px' align='center' />|<a href='./CLASS_1/9498.py'>9498</a>|<a href='https://www.acmicpc.net/problem/9498'>시험 성적</a>|✅|
-|<img src='https://static.solved.ac/tier_small/1.svg' height='20px' align='center' />|<a href='./CLASS_1/10171.py'>10171</a>|<a href='https://www.acmicpc.net/problem/10171'>고양이</a>|✅|
-|<img src='https://static.solved.ac/tier_small/1.svg' height='20px' align='center' />|<a href='./CLASS_1/10172.py'>10172</a>|<a href='https://www.acmicpc.net/problem/10171'>개</a>|✅|
-|<img src='https://static.solved.ac/tier_small/4.svg' height='20px' align='center' />|<a href='./CLASS_1/10809.py'>10809</a>|<a href='https://www.acmicpc.net/problem/10809'>알파벳 찾기</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/9498.py'>9498</a>|<a href='https://www.acmicpc.net/problem/9498'>시험 성적</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/10171.py'>10171</a>|<a href='https://www.acmicpc.net/problem/10171'>고양이</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/10172.py'>10172</a>|<a href='https://www.acmicpc.net/problem/10171'>개</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/10809.py'>10809</a>|<a href='https://www.acmicpc.net/problem/10809'>알파벳 찾기</a>|✅|
 |<img src='https://static.solved.ac/tier_small/3.svg' height='20px' align='center' />|<a href='./CLASS_1/10818.py'>10818</a>|<a href='https://www.acmicpc.net/problem/10818'>최소, 최대</a>|✅|
-|<img src='https://static.solved.ac/tier_small/1.svg' height='20px' align='center' />|<a href='./CLASS_1/10869.py'>10869</a>|<a href='https://www.acmicpc.net/problem/10869'>사칙연산</a>|✅|
-|<img src='https://static.solved.ac/tier_small/3.svg' height='20px' align='center' />|<a href='./CLASS_1/10871.py'>10871</a>|<a href='https://www.acmicpc.net/problem/10871'>X보다 작은 수</a>|✅|
-|<img src='https://static.solved.ac/tier_small/3.svg' height='20px' align='center' />|<a href='./CLASS_1/10950.py'>10950</a>|<a href='https://www.acmicpc.net/problem/10950'>A+B - 3</a>|✅|
-|<img src='https://static.solved.ac/tier_small/3.svg' height='20px' align='center' />|<a href='./CLASS_1/10951.py'>10951</a>|<a href='https://www.acmicpc.net/problem/10951'>A+B - 4</a>|✅|
-|<img src='https://static.solved.ac/tier_small/3.svg' height='20px' align='center' />|<a href='./CLASS_1/10952.py'>10952</a>|<a href='https://www.acmicpc.net/problem/10952'>A+B - 5</a>|✅|
-|<img src='https://static.solved.ac/tier_small/1.svg' height='20px' align='center' />|<a href='./CLASS_1/10998.py'>10998</a>|<a href='https://www.acmicpc.net/problem/10998'>AxB</a>|✅|
-|<img src='https://static.solved.ac/tier_small/1.svg' height='20px' align='center' />|<a href='./CLASS_1/11654.py'>11654</a>|<a href='https://www.acmicpc.net/problem/11654'>아스키 코드</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/10869.py'>10869</a>|<a href='https://www.acmicpc.net/problem/10869'>사칙연산</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/10871.py'>10871</a>|<a href='https://www.acmicpc.net/problem/10871'>X보다 작은 수</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/10950.py'>10950</a>|<a href='https://www.acmicpc.net/problem/10950'>A+B - 3</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/10951.py'>10951</a>|<a href='https://www.acmicpc.net/problem/10951'>A+B - 4</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/10952.py'>10952</a>|<a href='https://www.acmicpc.net/problem/10952'>A+B - 5</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/10998.py'>10998</a>|<a href='https://www.acmicpc.net/problem/10998'>AxB</a>|✅|
+|<img src='https://static.solved.ac/tier_small/sprout.svg' height='20px' align='center' />|<a href='./CLASS_1/11654.py'>11654</a>|<a href='https://www.acmicpc.net/problem/11654'>아스키 코드</a>|✅|
 |<img src='https://static.solved.ac/tier_small/4.svg' height='20px' align='center' />|<a href='./CLASS_1/11720.py'>11720</a>|<a href='https://www.acmicpc.net/problem/11720'>숫자의 합</a>|✅|
 
 </div>
