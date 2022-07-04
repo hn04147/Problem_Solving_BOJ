@@ -231,7 +231,7 @@
 |<img src='https://static.solved.ac/tier_small/8.svg' height='20px' align='center' />|<a href='./CLASS_4/15657.py'>15657</a>|<a href='https://www.acmicpc.net/problem/15657'>N과 M(8)</a>|✅|
 |<img src='https://static.solved.ac/tier_small/9.svg' height='20px' align='center' />|<a href='./CLASS_4/15663.py'>15663</a>|<a href='https://www.acmicpc.net/problem/15663'>N과 M(9)</a>||
 |<img src='https://static.solved.ac/tier_small/9.svg' height='20px' align='center' />|<a href='./CLASS_4/15666.py'>15666</a>|<a href='https://www.acmicpc.net/problem/15666'>N과 M(12)</a>||
-|<img src='https://static.solved.ac/tier_small/11.svg' height='20px' align='center' />|<a href='./CLASS_4/15686.py'>15686</a>|<a href='https://www.acmicpc.net/problem/15686'>치킨 배달</a>||
+|<img src='https://static.solved.ac/tier_small/11.svg' height='20px' align='center' />|<a href='./CLASS_4/15686.py'>15686</a>|<a href='https://www.acmicpc.net/problem/15686'>치킨 배달</a>|✅|
 |<img src='https://static.solved.ac/tier_small/10.svg' height='20px' align='center' />|<a href='./CLASS_4/16953.py'>16953</a>|<a href='https://www.acmicpc.net/problem/16953'>A -> B</a>|✅|
 |<img src='https://static.solved.ac/tier_small/11.svg' height='20px' align='center' />|<a href='./CLASS_4/17070.py'>17070</a>|<a href='https://www.acmicpc.net/problem/17070'>파이프 옮기기 1</a>|✅|
 |<img src='https://static.solved.ac/tier_small/12.svg' height='20px' align='center' />|<a href='./CLASS_4/17144.py'>117144003</a>|<a href='https://www.acmicpc.net/problem/17144'>미세먼지 안녕!</a>|✅|
