@@ -194,7 +194,7 @@
 |<img src='https://static.solved.ac/tier_small/12.svg' height='20px' align='center' />|<a href='./CLASS_4/1504.py'>1504</a>|<a href='https://www.acmicpc.net/problem/1504'>특정한 최단 경로</a>||
 |<img src='https://static.solved.ac/tier_small/10.svg' height='20px' align='center' />|<a href='./CLASS_4/1629.py'>1629</a>|<a href='https://www.acmicpc.net/problem/1629'>곱셈</a>|✅|
 |<img src='https://static.solved.ac/tier_small/11.svg' height='20px' align='center' />|<a href='./CLASS_4/1753_dijkstra.py'>1753</a>|<a href='https://www.acmicpc.net/problem/1753'>최단 경로</a>|✅|
-|<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_4/1865.py'>1865</a>|<a href='https://www.acmicpc.net/problem/1865'>웜홀</a>||
+|<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_4/1865.py'>1865</a>|<a href='https://www.acmicpc.net/problem/1865'>웜홀</a>|✅|
 |<img src='https://static.solved.ac/tier_small/11.svg' height='20px' align='center' />|<a href='./CLASS_4/1916.py'>1916</a>|<a href='https://www.acmicpc.net/problem/1916'>최소비용 구하기</a>|✅|
 |<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_4/1918.py'>1918</a>|<a href='https://www.acmicpc.net/problem/1918'>후위 표기식</a>|✅|
 |<img src='https://static.solved.ac/tier_small/10.svg' height='20px' align='center' />|<a href='./CLASS_4/1932.py'>1932</a>|<a href='https://www.acmicpc.net/problem/1932'>정수 삼각형</a>|✅|
