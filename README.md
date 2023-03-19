@@ -218,7 +218,7 @@
 |<img src='https://static.solved.ac/tier_small/14.svg' height='20px' align='center' />|<a href='./CLASS_4/11444.py'>11444</a>|<a href='https://www.acmicpc.net/problem/11444'>피보나치 수 6</a>||
 |<img src='https://static.solved.ac/tier_small/10.svg' height='20px' align='center' />|<a href='./CLASS_4/11660.py'>11660</a>|<a href='https://www.acmicpc.net/problem/11660'>구간 합 구하기 5</a>|✅|
 |<img src='https://static.solved.ac/tier_small/9.svg' height='20px' align='center' />|<a href='./CLASS_4/11725.py'>11725</a>|<a href='https://www.acmicpc.net/problem/11725'>트리의 부모 찾기</a>|✅|
-|<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_4/11779.py'>11779</a>|<a href='https://www.acmicpc.net/problem/11779'>최소비용 구하기 2</a>||
+|<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_4/11779.py'>11779</a>|<a href='https://www.acmicpc.net/problem/11779'>최소비용 구하기 2</a>|✅|
 |<img src='https://static.solved.ac/tier_small/11.svg' height='20px' align='center' />|<a href='./CLASS_4/12851.py'>12851</a>|<a href='https://www.acmicpc.net/problem/12851'>숨바꼭질 2</a>|✅|
 |<img src='https://static.solved.ac/tier_small/11.svg' height='20px' align='center' />|<a href='./CLASS_4/12865.py'>12865</a>|<a href='https://www.acmicpc.net/problem/12865'>평범한 배낭</a>|✅|
 |<img src='https://static.solved.ac/tier_small/12.svg' height='20px' align='center' />|<a href='./CLASS_4/13172.py'>13172</a>|<a href='https://www.acmicpc.net/problem/13172'>𝞢</a>||
