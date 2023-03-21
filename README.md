@@ -190,8 +190,8 @@
 |<img src='https://static.solved.ac/tier_small/12.svg' height='20px' align='center' />|<a href='./CLASS_4/1043.py'>1043</a>|<a href='https://www.acmicpc.net/problem/1043'>거짓말</a>||
 |<img src='https://static.solved.ac/tier_small/10.svg' height='20px' align='center' />|<a href='./CLASS_4/1149.py'>1149</a>|<a href='https://www.acmicpc.net/problem/1149'>RGB거리</a>|✅|
 |<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_4/1167.py'>1167</a>|<a href='https://www.acmicpc.net/problem/1167'>트리의 지름</a>||
-|<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_4/1238.py'>1238</a>|<a href='https://www.acmicpc.net/problem/1238'>파티</a>||
-|<img src='https://static.solved.ac/tier_small/12.svg' height='20px' align='center' />|<a href='./CLASS_4/1504.py'>1504</a>|<a href='https://www.acmicpc.net/problem/1504'>특정한 최단 경로</a>||
+|<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_4/1238.py'>1238</a>|<a href='https://www.acmicpc.net/problem/1238'>파티</a>|✅|
+|<img src='https://static.solved.ac/tier_small/12.svg' height='20px' align='center' />|<a href='./CLASS_4/1504.py'>1504</a>|<a href='https://www.acmicpc.net/problem/1504'>특정한 최단 경로</a>|✅|
 |<img src='https://static.solved.ac/tier_small/10.svg' height='20px' align='center' />|<a href='./CLASS_4/1629.py'>1629</a>|<a href='https://www.acmicpc.net/problem/1629'>곱셈</a>|✅|
 |<img src='https://static.solved.ac/tier_small/11.svg' height='20px' align='center' />|<a href='./CLASS_4/1753_dijkstra.py'>1753</a>|<a href='https://www.acmicpc.net/problem/1753'>최단 경로</a>|✅|
 |<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_4/1865.py'>1865</a>|<a href='https://www.acmicpc.net/problem/1865'>웜홀</a>|✅|
