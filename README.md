@@ -255,7 +255,7 @@
 |<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_5/1005_topological_sort.py'>1005</a>|<a href='https://www.acmicpc.net/problem/1005'>ACM Craft</a>|✅|
 |<img src='https://static.solved.ac/tier_small/14.svg' height='20px' align='center' />|<a href='./CLASS_5/1007.py'>1007</a>|<a href='https://www.acmicpc.net/problem/1007'>벡터 매칭</a>||
 |<img src='https://static.solved.ac/tier_small/12.svg' height='20px' align='center' />|<a href="./CLASS_5/1197_Minimum_Spanning_Tree(Prim's_Algorithm).py">1197</a>|<a href='https://www.acmicpc.net/problem/1197'>최소 스패닝 트리</a>|✅|
-|<img src='https://static.solved.ac/tier_small/14.svg' height='20px' align='center' />|<a href='./CLASS_5/1202.py'>1202</a>|<a href='https://www.acmicpc.net/problem/1202'>보석 도둑</a>||
+|<img src='https://static.solved.ac/tier_small/14.svg' height='20px' align='center' />|<a href='./CLASS_5/1202.py'>1202</a>|<a href='https://www.acmicpc.net/problem/1202'>보석 도둑</a>|✅|
 |<img src='https://static.solved.ac/tier_small/15.svg' height='20px' align='center' />|<a href='./CLASS_5/1208.py'>1208</a>|<a href='https://www.acmicpc.net/problem/1208'>부분수열의 합 2</a>||
 |<img src='https://static.solved.ac/tier_small/15.svg' height='20px' align='center' />|<a href='./CLASS_5/1509.py'>1509</a>|<a href='https://www.acmicpc.net/problem/1509'>펠린드롬 분할</a>||
 |<img src='https://static.solved.ac/tier_small/15.svg' height='20px' align='center' />|<a href='./CLASS_5/1562.py'>1562</a>|<a href='https://www.acmicpc.net/problem/1562'>계단 수</a>||
@@ -287,7 +287,7 @@
 |<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_5/10942.py'>10942</a>|<a href='https://www.acmicpc.net/problem/10942'>펠린드롬?</a>|✅|
 |<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_5/11049_dp_matrix_chain_multiplication.py'>11049</a>|<a href='https://www.acmicpc.net/problem/11049'>행렬 곱셈 순서</a>|✅|
 |<img src='https://static.solved.ac/tier_small/14.svg' height='20px' align='center' />|<a href='./CLASS_5/12015.py'>12015</a>|<a href='https://www.acmicpc.net/problem/12015'>가장 긴 증가하는 부분 수열 2</a>|✅|
-|<img src='https://static.solved.ac/tier_small/14.svg' height='20px' align='center' />|<a href='./CLASS_5/12100.py'>12100</a>|<a href='https://www.acmicpc.net/problem/12100'>2048 (Easy)</a>||
+|<img src='https://static.solved.ac/tier_small/14.svg' height='20px' align='center' />|<a href='./CLASS_5/12100.py'>12100</a>|<a href='https://www.acmicpc.net/problem/12100'>2048 (Easy)</a>|✅|
 |<img src='https://static.solved.ac/tier_small/15.svg' height='20px' align='center' />|<a href='./CLASS_5/12850.py'>12850</a>|<a href='https://www.acmicpc.net/problem/12850'>본대 산책 2</a>||
 |<img src='https://static.solved.ac/tier_small/10.svg' height='20px' align='center' />|<a href='./CLASS_5/12852.py'>12852</a>|<a href='https://www.acmicpc.net/problem/12852'>1로 만들기 2</a>|✅|
 |<img src='https://static.solved.ac/tier_small/15.svg' height='20px' align='center' />|<a href='./CLASS_5/13460.py'>13460</a>|<a href='https://www.acmicpc.net/problem/13460'>구슬 탈출 2</a>||
