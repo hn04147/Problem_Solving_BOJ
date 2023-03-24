@@ -166,7 +166,7 @@
 |<img src='https://static.solved.ac/tier_small/8.svg' height='20px' align='center' />|<a href='./CLASS_3/11726.py'>11726</a>|<a href='https://www.acmicpc.net/problem/11726'>2xn 타일링</a>|✅|
 |<img src='https://static.solved.ac/tier_small/8.svg' height='20px' align='center' />|<a href='./CLASS_3/11727.py'>11727</a>|<a href='https://www.acmicpc.net/problem/11727'>2xn 타일링 2</a>|✅|
 |<img src='https://static.solved.ac/tier_small/11.svg' height='20px' align='center' />|<a href='./CLASS_3/14500.py'>14500</a>|<a href='https://www.acmicpc.net/problem/14500'>테트로미노</a>|✅|
-|<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_3/16236.py'>16236</a>|<a href='https://www.acmicpc.net/problem/16236'>아기 상어</a>||
+|<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_3/16236.py'>16236</a>|<a href='https://www.acmicpc.net/problem/16236'>아기 상어</a>|✅|
 |<img src='https://static.solved.ac/tier_small/11.svg' height='20px' align='center' />|<a href='./CLASS_3/16928.py'>16928</a>|<a href='https://www.acmicpc.net/problem/16928'>뱀과 사다리 게임</a>|✅|
 |<img src='https://static.solved.ac/tier_small/7.svg' height='20px' align='center' />|<a href='./CLASS_3/17219.py'>17219</a>|<a href='https://www.acmicpc.net/problem/17219'>비밀번호 찾기</a>|✅|
 |<img src='https://static.solved.ac/tier_small/7.svg' height='20px' align='center' />|<a href='./CLASS_3/17626.py'>17626</a>|<a href='https://www.acmicpc.net/problem/17626'>Four Squares</a>|✅|
