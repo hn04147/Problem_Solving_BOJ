@@ -255,7 +255,7 @@
 |레벨|ID|제목|해결|
 |:-:|:-:|:-:|:-:|
 |<img src='https://static.solved.ac/tier_small/13.svg' height='20px' align='center' />|<a href='./CLASS_5/1005_topological_sort.py'>1005</a>|<a href='https://www.acmicpc.net/problem/1005'>ACM Craft</a>|✅|
-|<img src='https://static.solved.ac/tier_small/14.svg' height='20px' align='center' />|<a href='./CLASS_5/1007.py'>1007</a>|<a href='https://www.acmicpc.net/problem/1007'>벡터 매칭</a>||
+|<img src='https://static.solved.ac/tier_small/14.svg' height='20px' align='center' />|<a href='./CLASS_5/1007.py'>1007</a>|<a href='https://www.acmicpc.net/problem/1007'>벡터 매칭</a>|✅|
 |<img src='https://static.solved.ac/tier_small/12.svg' height='20px' align='center' />|<a href="./CLASS_5/1197_Minimum_Spanning_Tree(Prim's_Algorithm).py">1197</a>|<a href='https://www.acmicpc.net/problem/1197'>최소 스패닝 트리</a>|✅|
 |<img src='https://static.solved.ac/tier_small/14.svg' height='20px' align='center' />|<a href='./CLASS_5/1202.py'>1202</a>|<a href='https://www.acmicpc.net/problem/1202'>보석 도둑</a>|✅|
 |<img src='https://static.solved.ac/tier_small/15.svg' height='20px' align='center' />|<a href='./CLASS_5/1208.py'>1208</a>|<a href='https://www.acmicpc.net/problem/1208'>부분수열의 합 2</a>||
