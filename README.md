@@ -7,7 +7,6 @@
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hn04147)](https://solved.ac/hn04147)
 
 
-
 <!-- CLASS 1 STARTS -->
 <details>
 <summary>CLASS 1</summary>
